@@ -13,6 +13,12 @@ Before you begin, ensure you have installed the following:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+## Screenshots
+
+![Screenshot 1](https://i.postimg.cc/13x3sr0K/Capture.png)
+![Screenshot 2](https://i.postimg.cc/xTN1w4mC/Capture2.png)
+![Screenshot 3](https://i.postimg.cc/nhvcz90f/Capture3.png)
+
 ### Setting Up the Database
 
 1. **Create the MySQL Database and User Table**
